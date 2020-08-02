@@ -1,2 +1,1 @@
-# my-dashboard
-my first dashboard
+# sidebar
